@@ -15,7 +15,7 @@
 
 #set text(lang: "sr")
 
-#set document(title: "Наслов рада", author: "Аутор")
+#set document(title: naslov, author: autor)
 #set heading(numbering: "1.1")
 #set text(font: "Liberation Serif", size: 11pt)
 #set par(justify: true)
