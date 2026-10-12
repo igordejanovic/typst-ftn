@@ -58,7 +58,7 @@
 #let zvanje_eng = (
      "редовни професор": "full professor",
      "ванредни професор": "assoc. professor",
-     "доцент": "asist. professor",
+     "доцент": "assist. professor",
 )
 #let komisija_predsednik_zvanje_eng = zvanje_eng.at(komisija_predsednik_zvanje)
 #let komisija_clan_zvanje_eng = zvanje_eng.at(komisija_clan_zvanje)
